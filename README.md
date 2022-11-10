@@ -41,3 +41,4 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_secret"></a> [secret](#output\_secret) | The created secret |
+| <a name="output_secret_name"></a> [secret\_name](#output\_secret\_name) | passthrough secret name |
