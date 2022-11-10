@@ -38,4 +38,6 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_secret"></a> [secret](#output\_secret) | The created secret |
